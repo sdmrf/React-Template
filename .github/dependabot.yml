@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"  # Update this based on your project's package manager (npm, pip, etc.)
+    directory: "/"  # Update this to the location of your package manifests
+    schedule:
+      interval: "weekly"
