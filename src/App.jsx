@@ -1,10 +1,9 @@
-import "./App.scss"
+import React from 'react'
+import './App.scss'
 
 const App = () => {
   return (
-    <div className="App">
-      Sdmrf
-    </div>
+    <div className="App">Sdmrf</div>
   )
 }
 
