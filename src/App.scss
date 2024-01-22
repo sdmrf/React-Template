@@ -1,7 +1,9 @@
 .App{
     height: 100vh;
     display: flex;
-    align-items: center;
     justify-content: center;
     color: #fff;
+    padding: 20px;
+    // Comment out the border property below
+    border: 4px solid #96EFFF;
 }
