@@ -1,0 +1,2 @@
+This serves as a demo file for uploading the assets folder to GitHub. 
+Please delete it after cloning the repository.
