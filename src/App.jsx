@@ -3,7 +3,7 @@ import './App.scss'
 
 const App = () => {
   return (
-    <div className="App">Sdmrf</div>
+    <div className="App">Edit App.scss to remove this border</div>
   )
 }
 
